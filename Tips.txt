@@ -1,2 +1,4 @@
 1.10 Ultra Ball: Catch 10 species of Pokemon; talk to a guy in the lfet of Alola Tourist Bureau.
-2.Catch Drifloon in Hau'oli Cemetery;  Talk to a girl in the left of Pokemon Center in Hau'oli City Shopping District.
+2.10,000 money: Catch Drifloon in Hau'oli Cemetery;  Talk to a girl in the left of Pokemon Center in Hau'oli City Shopping District.
+3. Malasada Shop to add Pokemon's Affection at Hau;oli City Shopping District
+4. Spearow trade Machop: 
