@@ -1,0 +1,51 @@
+Pokemon Shuffle (USA), Pokemon Shuffle (EUR), Pokemon Rumble World (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1766/, http://www.fort42.com/gateshark/game1767/, http://www.fort42.com/gateshark/game1770/
+----------------------------------------------------
+
+[69 Moves]
+08D2CE3C 00000045
+
+[255 Moves Left (L+Up)]
+DD000000 00000240
+28DB5EC0 000000FF
+D0000000 00000000
+
+[20 Minute Timer (L+Right)]
+DD000000 00000210
+18DB5EA8 00011940
+D0000000 00000000
+
+[255 Moves Left (L+Up)]
+DD000000 00000240
+28DB5EC0 000000FF
+D0000000 00000000
+
+[99999 Moves (press R button)]
+DD000000 00000100
+08DB5DF0 0001869F
+
+[20 Minute Timer (L+Right)]
+DD000000 00000210
+18DB5EA8 00011940
+D0000000 00000000
+
+[9,999 Poke money]
+D3000000 08000000
+10287944 0000270F
+
+[9,999 Poke diamonds]
+D3000000 08000000
+00251548 0000270F
+
+[9,999 Diamonds]
+D3000000 00000000
+080AE468 0000270F
+08456348 0000270F
+
+[9,999 Money]
+D3000000 00000000
+080F0FA4 0000270F
+080F104C 0000270F
